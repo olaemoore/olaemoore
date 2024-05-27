@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ola Moore. 👋
+
+💼 I'm a data analyst based in Charlotte, currently working in the financial sector.
+
+👀 I’m interested in ... The tools I primarily use are Excel, SQL, Python, Power BI, and Tableau.
+
+💞️ I enjoy...
+
+📫 How to reach me: Message me on <a href="www.linkedin.com/in/ola-e-moore">LinkedIn</a>.
+
+😄 Pronouns: She/Her
 
 <!--
 **olaemoore/olaemoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
