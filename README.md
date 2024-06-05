@@ -2,9 +2,9 @@
 
 💼 I'm a data analyst based in Charlotte, currently working in the financial sector.
 
-👀 I’m interested in ... The tools I primarily use are Excel, SQL, Python, Power BI, and Tableau.
+👀 I’m interested in providing an overall better user experience by providing helpful data that would allow line of business to make more informed decisions.  The tools I primarily use are Excel, SQL, Python, Power BI, and Tableau.
 
-💞️ I enjoy...
+💞️ I absolutely enjoy learning new things.  I believe that each person should allow themselves to learn something new and be open to change.
 
 📫 How to reach me: Message me on <a href="www.linkedin.com/in/ola-e-moore">LinkedIn</a>.
 
